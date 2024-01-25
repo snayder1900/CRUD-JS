@@ -1,0 +1,11 @@
+button {
+  margin: 10px;
+  color: white;
+  background-color: #646cff;
+}
+
+#current-page {
+  font-size: 1.3rem;
+  margin-left: 10px;
+  margin-right: 10px;
+}
